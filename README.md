@@ -2,7 +2,7 @@
 
 1. **Start the server:**
 
-    Run EcomProjectApplication.java in IDE.
+    Run [EcomProjectApplication.java](https://github.com/rajeshuchiha/E-commerce/blob/main/src/main/java/com/project/ecom_project/EcomProjectApplication.java) in IDE.
   
   
 2. **Start the frontend:**
