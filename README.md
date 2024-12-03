@@ -1,9 +1,22 @@
 ## Installation
 
-To Start the server:
-  Run EcomProjectApplication.java in IDE.
+1. **Start the server:**
+
+    Run EcomProjectApplication.java in IDE.
   
-To Start the frontend:
-  Open a terminal in ecom-frontend.
-  Run the following command: npm i 
-  After the installation, Run the command: npm run dev
+  
+2. **Start the frontend:**
+
+    Open a terminal in ecom-frontend.
+    
+    To Install the dependencies. Run the following command: 
+    ```bash
+    npm i
+    ```
+  
+    After the installation, 
+    
+    Run the command: 
+    ```bash
+    npm run dev
+    ```
